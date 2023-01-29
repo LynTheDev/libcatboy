@@ -1,0 +1,6 @@
+[submodule "ThirdParty/curlpp"]
+	path = ThirdParty/curlpp
+	url = https://github.com/jpbarrette/curlpp
+[submodule "ThirdParty/json"]
+	path = ThirdParty/json
+	url = https://github.com/nlohmann/json
