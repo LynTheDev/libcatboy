@@ -40,7 +40,7 @@ target_link_libraries(${PROJECT_NAME}(
 int main(int argc, char **argv) {
     catboys::image img = catboys::get_image();
 
-    printf("%s\n%s", img.url, img.atist);
+    printf("%s\n%s", img.url, img.artist);
 
 return 0;
 }
