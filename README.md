@@ -26,7 +26,7 @@ add_executable(
     ...
 )
 
-target_link_libraries(${PROJECT_NAME}(
+target_link_libraries(${PROJECT_NAME}
     # your other libraries
     libcatboy
 )
